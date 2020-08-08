@@ -12,3 +12,7 @@
 
 ## labelme2coco.py
 用于生成coco形式的数据集
+
+# 具体操作可以参考视频
+
+## https://www.bilibili.com/video/bv1Fk4y1U72f
